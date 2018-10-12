@@ -1,4 +1,4 @@
-This repository contains the simulation results used for *insert arxiv link for paper*
+This repository contains the simulation results used for https://arxiv.org/abs/1810.00776
 
 The results have been stored as Python dictionaries in JSON format. The dictionaries contain a white dwarf's identification number (from CatSim) as keys. Each key possesses the following values:
 
