@@ -16,8 +16,8 @@ The results have been stored as Python dictionaries in JSON format. The dictiona
             - 'per': orbital period of the injected planet
             - 'rp': planet radius in stellar radii
             - 'b': impact parameter
-            - 'phi': 
+            - 'phi': inferior conjunction in radians 
             - 'ar': semi-major axis in stellar radii
-            - 'snr': signal-to-noise ratio, as defined in *insert arxiv link for paper*
+            - 'snr': signal-to-noise ratio, as defined in 1810.00776
             - 'detect': '0' for non-detection, '1' for detection
             - 'cf': the geometric probability for a detection occurring 
